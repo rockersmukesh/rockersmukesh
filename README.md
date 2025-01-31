@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a project in spring mvc<br>I have done html,css,javascript,java,jsp,servlet,spring mvc
+🔭 <h3>I am a student currently persuing in BSC-IT in Final Year <br> I’m currently working on a project in spring mvc</h2>
 
 
 # 💻 Tech Stack:
