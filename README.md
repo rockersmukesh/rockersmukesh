@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 <h3>I am a student currently persuing in BSC-IT in Final Year <br> I’m currently working on a project in spring mvc</h2>
+🔭 <h3>I am a student currently persuing in MSC-IT in First Year <br> I’m currently working on a project in React</h2>
 
 
 # 💻 Tech Stack:
